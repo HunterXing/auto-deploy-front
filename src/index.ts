@@ -1,4 +1,4 @@
-const calc = (a: number, b: number): number => {
+const calc = (a, b) => {
   return a - b
 }
 // console.log(calc(1024, 28))
