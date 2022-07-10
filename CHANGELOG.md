@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/HunterXing/auto-deploy-front/compare/v1.2.0...v1.3.0) (2022-07-10)
+
+
+### Features
+
+* 删除sum函数 ([cde0131](https://github.com/HunterXing/auto-deploy-front/commit/cde0131d7ceeb99df1d06a74bdc4e81adab60c11))
+
 # [1.2.0](https://github.com/HunterXing/auto-deploy-front/compare/v1.1.0...v1.2.0) (2022-07-10)
 
 
