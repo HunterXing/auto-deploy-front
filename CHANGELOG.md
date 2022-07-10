@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/HunterXing/auto-deploy-front/compare/v1.0.0...v1.1.0) (2022-07-05)
+
+
+### Features
+
+* add sum function feature ([aaab57b](https://github.com/HunterXing/auto-deploy-front/commit/aaab57bbe31218e6dd9bb2fddf9d9d5ac1d2d830))
+
 # 1.0.0 (2022-07-05)
 
 
