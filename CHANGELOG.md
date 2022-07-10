@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/HunterXing/auto-deploy-front/compare/v1.1.0...v1.2.0) (2022-07-10)
+
+
+### Features
+
+* complete the CI/CD workflow ([96535ba](https://github.com/HunterXing/auto-deploy-front/commit/96535ba722b40b6eb276d8a90e7cebd45287d7f1))
+* 测试新版本 ([fb49ad0](https://github.com/HunterXing/auto-deploy-front/commit/fb49ad05cf0141685d0a1fea1702e8f89da524e7))
+
 # [1.1.0](https://github.com/HunterXing/auto-deploy-front/compare/v1.0.0...v1.1.0) (2022-07-05)
 
 
